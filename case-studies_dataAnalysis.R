@@ -2,7 +2,7 @@
 library(tidyverse); library(readr); library(ggpubr); library(ggpattern)
 
 #create data frame from the spreadsheet available on Github
-Case_study <- read_csv("C:/Data_Anonymized.csv") ### change to the location in your computer
+Case_study <- read_csv("C:/Data_Anonymized_Full_Questions.csv")[-c(1),] ### change to file location in your computer
 
 
 ## Figure 3 - Building typologies - Q155
