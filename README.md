@@ -1,3 +1,4 @@
+# ![IEA EBC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV12VcVpJdH1KBLWgW00m0qYy-wRpADemI1ldSGfIuCg&s)
 # OCC-Case-Studies
 This repository contains a collection of occupant-centric control and operations field implementations. 
 
