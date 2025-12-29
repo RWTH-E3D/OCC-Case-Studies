@@ -9,3 +9,5 @@ The survey was distributed widely to research starting April 2022. There are cur
 
 Please cite us if you use this database and codes:  Lorenz, C. L. and André, M., Abele, O., Gunay, B., Hahn, J., Hensen, P., Nagy, Z., Ouf, M. M., Park, J. Y., Yaduvanshi, N. S., Miller, C. 2023.  A Repository of Occupant-Centric Control Case Studies: Survey Development and Database Overview. Energy and Building. https://doi.org/10.1016/j.enbuild.2023.113649
 
+A GUI with some quick filtering functionalities has been developed by the student Laila Abdel Kader and can be accessed at:
+https://occ-case-studies.e3d.rwth-aachen.de/app/occ-gui/home-6875389bfa798d23fc936226. This supplementary interface is offered as‑is, without guarantee regarding completeness and accuracy. 
